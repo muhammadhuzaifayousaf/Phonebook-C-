@@ -47,12 +47,12 @@ The application presents a clear menu at launch. Use the corresponding numbers t
 
 Feel free to fork this repository and make improvements or add new features. Pull requests are welcome!
 
-**License:**
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 **Additional Information:**
 
 * For file I/O functionality to save and load contact data (optional), consider implementing appropriate file handling using file I/O libraries and functions.
 * Continuously improve your code for clarity, functionality, and robustness by iterating and addressing feedback.
 * Explore additional features like sorting contacts, filtering by criteria, or exporting data to different formats.
+
+**License:**
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
